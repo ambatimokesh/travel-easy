@@ -58,9 +58,13 @@ Access in Browser
 http://127.0.0.1:5000/
 
 📸 Screenshots
-Login Page	Destination Page	Booking Page	Recommendations
+<img width="1856" height="669" alt="filtering" src="https://github.com/user-attachments/assets/ac09f5ba-033d-46c2-bbfb-603b1a09a82b" />
 
-	
+<img width="1873" height="644" alt="booking (2)" src="https://github.com/user-attachments/assets/d12aabed-ad9a-4728-a82c-482a37d608d4" />
+
+	<img width="1907" height="97<img width="1873" height="978" alt="recomendation" src="https://github.com/user-attachments/assets/9d37323d-8104-4ae4-9a79-d2989ad6f5e9" />
+7" alt="login" src="https://github.com/user-attachments/assets/53c3a84a-fba4-4a3a-a513-c6b19665a5dc" />
+
 	Project Structure
  travel-eazy/
 │
