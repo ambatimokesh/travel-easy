@@ -65,7 +65,9 @@ http://127.0.0.1:5000/
 <img width="1873" height="644" alt="booking (2)" src="https://github.com/user-attachments/assets/827c9675-ae25-4e45-9aed-164631740c85" />
 
 <img width="1856" height="669" alt="filtering" src="https://github.com/user-attachments/assets/e0f14508-4d95-49c7-8800-2391346be76f" />
-	Project Structure
+	
+ 
+ Project Structure
  travel-eazy/
 │
 ├── app.py                  # Main Flask application entry point
@@ -111,7 +113,8 @@ http://127.0.0.1:5000/
     ├── test_models.py
     └── test_routes.py
 
-	
+
+ 
 💡 Project Impact
 
 🌍 Tourism Industry – Helps travelers find unique, safe, and health-friendly destinations.
@@ -120,12 +123,14 @@ http://127.0.0.1:5000/
 ♻️ Sustainability – Encourages responsible tourism by spreading visitor flow beyond overcrowded spots.
 🎯 Recruiter Value – Demonstrates real-world problem-solving, AI integration, teamwork, and end-to-end deployment skills.
 
+
 🧪 Testing
 
 ✔️ Unit Testing – Core modules validation
 ✔️ Integration Testing – User/Admin data flow
 ✔️ Regression Testing – No breakage after updates
 ✔️ Usability Testing – Smooth user experience
+
 
 📌 Future Enhancements
 
@@ -138,6 +143,8 @@ http://127.0.0.1:5000/
 🌎 International destinations expansion
 
 🔒 Advanced security & privacy compliance
+
+
 
 👨‍💻 Project Team
 
@@ -152,6 +159,7 @@ M Madhu Harsha – Backend & API Integration
 A Mokesh Reddy – Frontend & Deployment
 
 Guide: Mrs. N. Nalini – Assistant Professor, Dept. of CSE, Mohan Babu University
+
 
 📜 License
 
